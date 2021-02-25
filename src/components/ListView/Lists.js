@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import {items} from "../../itemsData/itemsData";
-import List from "./List";
 import {sortBy} from "lodash"
 import {v4 as uuidv4} from "uuid"
 
